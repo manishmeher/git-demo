@@ -1,2 +1,4 @@
 # git-demo
-This is my first Git Repository. Author-Manish Kumar Meher
+This is my first Git Repository.
+<br>
+Author-Manish Kumar Meher
